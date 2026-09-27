@@ -1,2 +1,2 @@
-# AY_COLLECTION
+Index.html
 SHOP HERE!
